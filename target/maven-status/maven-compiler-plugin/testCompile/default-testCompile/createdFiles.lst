@@ -1,0 +1,4 @@
+com\automatitaonpractice\stepdefinition\GestionUsuario_stepdefinition.class
+com\automatitaonpractice\stepdefinition\InicioSesion_stepdefinition.class
+com\automatitaonpractice\stepdefinition\Tags_stepdefinition.class
+com\automatitaonpractice\runner\R_EjecucionCasos.class

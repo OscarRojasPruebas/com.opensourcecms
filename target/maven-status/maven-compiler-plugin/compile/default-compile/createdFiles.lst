@@ -1,0 +1,12 @@
+com\aut\project\bdd\datadriven\DatosAlFeature.class
+com\automatitaonpractice\pageoprs\InicioSesion_oprs.class
+com\aut\project\bdd\datadriven\LeerDatosExcel.class
+com\automatitaonpractice\pagesobjs\GestionUsuario_objs.class
+com\automatitaonpractice\pagesobjs\Tags_objs.class
+com\aut\project\bdd\datadriven\TipoClaseConstante.class
+com\aut\project\bdd\datadriven\RunnerPersonalizado.class
+com\automatitaonpractice\pageoprs\GestionUsuario_oprs.class
+com\opensourcecms\util\Utils.class
+com\automatitaonpractice\pagesobjs\InicioSesion_objs.class
+com\aut\project\bdd\datadriven\BeforeSuite.class
+com\automatitaonpractice\pageoprs\Tags_oprs.class
